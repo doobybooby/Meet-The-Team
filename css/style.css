@@ -507,7 +507,8 @@ button {
 /** software section **/
 
 .software {
-     background-color: #240082;
+     /* background-color: #240082; */
+     background-color: #3bbd50;
      margin-top: 90px;
 }
 
@@ -574,7 +575,8 @@ button {
 .we_do .we_box {
      padding: 30px 30px 60px 30px;
      text-align: center;
-     border: #37139a solid 1px;
+     /* border: #37139a solid 1px; */
+     border: #3bbd50 solid 1px;
      border-radius: 10px;
      transition: ease-in all 0.5s;
      margin-bottom: 30px;
@@ -585,7 +587,8 @@ button {
      font-weight: bold;
      font-size: 30px;
      color: #000000;
-     border: #37139a solid 2px;
+     /* border: #37139a solid 2px; */
+     border: #3bbd50 solid 2px;
      width: 65px;
      height: 65px;
      display: block;
@@ -613,12 +616,14 @@ button {
 }
 
 #hover_color:hover.we_box {
-     background-color: #37139a;
+     /* background-color: #37139a; */
+     background-color: #3bbd50;
      transition: ease-in all 0.5s;
 }
 
 #hover_color:hover.we_box span {
-     color: #37139a;
+     /* color: #37139a; */
+     color: #3bbd50;
      transition: ease-in all 0.5s;
 }
 
@@ -651,7 +656,8 @@ button {
 /** Our  team section **/
 
 .team {
-     background: #37139a;
+     /* background: #37139a; */
+     background: #3bbd50;
      margin-top: 90px;
      padding: 90px 0 60px 0;
 }
@@ -691,7 +697,8 @@ button {
 }
 
 .team .social_box h3 {
-     color: #37139a;
+     /* color: #37139a; */
+     color: #309e43;
      font-size: 17px;
      line-height: 20px;
      padding: 12px 0px 9px 0px;
@@ -715,7 +722,8 @@ ul.social_team li a {
      font-size: 25px;
      border-radius: 60px;
      margin: 0 15px;
-     color: #37139a;
+     /* color: #37139a; */
+     color: #309e43;
 }
 
 
@@ -742,7 +750,8 @@ ul.social_team li a {
 }
 
 .con_bg {
-     background-color: #37139a;
+     /* background-color: #37139a; */
+     background-color: #3bbd50;
 }
 
 .padding_right2 {
