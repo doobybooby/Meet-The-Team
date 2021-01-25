@@ -627,6 +627,12 @@ button {
      transition: ease-in all 0.5s;
 }
 
+.we_do .picture {
+     width: 550px;
+     height: 700px;
+     text-align: center;
+}
+
 #hover_color:hover.we_box h3 {
      color: #fff;
      transition: ease-in all 0.5s;
