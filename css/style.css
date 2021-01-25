@@ -984,6 +984,15 @@ ul.location_form li a {
      padding-right: 60px;
 }
 
+.footer a{
+     color: #fff;
+     text-align: left;
+}
+
+.footer a:hover{
+     color: #36a832;
+}
+
 ul.location_icon {
      font-family: 'Open Sans', sans-serif;
      text-align: center;
