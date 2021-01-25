@@ -508,7 +508,7 @@ button {
 
 .software {
      /* background-color: #240082; */
-     background-color: #3bbd50;
+     background-color: #36a832;
      margin-top: 90px;
 }
 
@@ -576,7 +576,7 @@ button {
      padding: 30px 30px 60px 30px;
      text-align: center;
      /* border: #37139a solid 1px; */
-     border: #3bbd50 solid 1px;
+     border: #36a832 solid 1px;
      border-radius: 10px;
      transition: ease-in all 0.5s;
      margin-bottom: 30px;
@@ -588,7 +588,7 @@ button {
      font-size: 30px;
      color: #000000;
      /* border: #37139a solid 2px; */
-     border: #3bbd50 solid 2px;
+     border: #36a832 solid 2px;
      width: 65px;
      height: 65px;
      display: block;
@@ -617,13 +617,13 @@ button {
 
 #hover_color:hover.we_box {
      /* background-color: #37139a; */
-     background-color: #3bbd50;
+     background-color: #36a832;
      transition: ease-in all 0.5s;
 }
 
 #hover_color:hover.we_box span {
      /* color: #37139a; */
-     color: #3bbd50;
+     color: #36a832;
      transition: ease-in all 0.5s;
 }
 
@@ -657,7 +657,7 @@ button {
 
 .team {
      /* background: #37139a; */
-     background: #3bbd50;
+     background: #36a832;
      margin-top: 90px;
      padding: 90px 0 60px 0;
 }
@@ -698,7 +698,7 @@ button {
 
 .team .social_box h3 {
      /* color: #37139a; */
-     color: #309e43;
+     color: #36a832;
      font-size: 17px;
      line-height: 20px;
      padding: 12px 0px 9px 0px;
@@ -723,7 +723,7 @@ ul.social_team li a {
      border-radius: 60px;
      margin: 0 15px;
      /* color: #37139a; */
-     color: #309e43;
+     color: #36a832;
 }
 
 
@@ -751,7 +751,7 @@ ul.social_team li a {
 
 .con_bg {
      /* background-color: #37139a; */
-     background-color: #3bbd50;
+     background-color: #36a832;
 }
 
 .padding_right2 {
@@ -904,7 +904,7 @@ ul.location_form li a {
 }
 
 .blu {
-     color: #3bbd50;
+     color: #36a832;
      text-transform: initial;
      float: left;
 }
@@ -929,7 +929,7 @@ ul.location_form li a {
      width: 45px;
      height: 12px;
      border-radius: 20px;
-     background: #3bbd50;
+     background: #36a832;
 }
 
 #myCarousel .carousel-indicators .active {
@@ -1012,7 +1012,7 @@ ul.location_icon li a {
      padding: 7px 15px;
      margin-left: -4px;
      font-size: 18px;
-     background: #3bbd50;
+     background: #36a832;
      color: #fff;
 }
 
@@ -1045,7 +1045,7 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background-color:   #3bbd50;
+     background-color:   #36a832;
 }
 
 .copyright {
@@ -1069,7 +1069,7 @@ ul.social_icon li a:hover {
 }
 
 .copyright a:hover {
-     color: #3bbd50;
+     color: #36a832;
 }
 
 
