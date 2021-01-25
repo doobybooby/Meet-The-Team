@@ -904,7 +904,7 @@ ul.location_form li a {
 }
 
 .blu {
-     color: #37139a;
+     color: #3bbd50;
      text-transform: initial;
      float: left;
 }
@@ -929,7 +929,7 @@ ul.location_form li a {
      width: 45px;
      height: 12px;
      border-radius: 20px;
-     background: #37139a;
+     background: #3bbd50;
 }
 
 #myCarousel .carousel-indicators .active {
@@ -1012,7 +1012,7 @@ ul.location_icon li a {
      padding: 7px 15px;
      margin-left: -4px;
      font-size: 18px;
-     background: #37139a;
+     background: #3bbd50;
      color: #fff;
 }
 
@@ -1045,7 +1045,7 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background-color: #37139a;
+     background-color:   #3bbd50;
 }
 
 .copyright {
@@ -1069,7 +1069,7 @@ ul.social_icon li a:hover {
 }
 
 .copyright a:hover {
-     color: #37139a;
+     color: #3bbd50;
 }
 
 
