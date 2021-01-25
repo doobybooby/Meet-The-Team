@@ -629,8 +629,14 @@ button {
 
 .we_do .picture {
      width: 550px;
-     height: 700px;
+     height: 500px;
      text-align: center;
+     display: flex;
+     align-items: center;
+}
+
+.we_do .row {
+     margin-bottom: 6.25rem;
 }
 
 #hover_color:hover.we_box h3 {
