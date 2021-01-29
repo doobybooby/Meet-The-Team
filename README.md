@@ -12,7 +12,7 @@ cd Meet-The-Team
 ```
 http-server
 ```
-### Open up a browser and copy one of these lines
+### Open up a browser and copy **ONE** of these lines into the URL 
 ```
   http://10.5.0.2:8080
   http://172.24.64.1:8080
